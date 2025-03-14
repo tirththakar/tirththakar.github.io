@@ -23,7 +23,12 @@
       "startDate": "2023-08-21",
       "endDate": "Present",
       "summary": "",
-      "highlights": []
+      "highlights": ["Developed and tested high-voltage electroactive polymer actuators, conducting over 100 experiments to quantify
+mechanical properties, performance, and behavior under various environmental condition", "Implemented a soft gripper system utilizing said actuators that are capable of lifting 50 times their own mass
+", "Engineered, prototyped, and assembled high-precision components for high-altitude balloon payloads using SolidWorks,
+3-D printing, and rapid prototyping techniques", "Carried out DFMEA for payload system, identifying and assessing over 15 potential risks, and developing mitigation
+strategies that reduced risk severity by 85%", "Designed and fabricated 5+ high-voltage circuits and custom PCBs for robotic actuators, supporting applications in both
+Earth-based and space environments"]
     },
     {
       "name": "Fisher & Paykel Technologies",
@@ -32,7 +37,11 @@
       "startDate": "2022-01-03",
       "endDate": "2023-08-18",
       "summary": "",
-      "highlights": []
+      "highlights": ["Led the end-to-end product lifecycle and project delivery for firmware, mechanical, and motor design improvements,
+driving a projected 20% increase in company revenue over a 3-year period across multiple business streams", "Engineered, tested, and optimized new electric motor designs by leveraging SolidWorks and ANSYS tools to meet
+performance specifications, reducing manufacturing costs by 19%", "Developed Python and LabView applications to streamline the design process, achieving a 10% reduction in design time", "Modified 10+ CAD motor designs and created detailed engineering drawings, applying geometric dimensioning and
+tolerance (GD&T) standards for precision manufacturing", "Performed FEA simulations on 3-D motor designs via ANSYS Maxwell, optimizing performance and identifying design
+improvements"]
     },
     {
       "name": "Halter",
@@ -45,7 +54,7 @@
     },
     {
       "name": "Fisher & Paykel Healthcare",
-      "position": "Continuous Improvement Intern",
+      "position": "Continuous Improvement Engineering Intern",
       "url": "https://www.fphcare.com/us/",
       "startDate": "2019-11-18",
       "endDate": "2020-02-28",

@@ -23,7 +23,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hi, I’m Tirth, a Mechanical Engineer originally from New Zealand, now based in the United States. I specialize in mechanical systems, computer-aided design (CAD), prototyping, and testing and validation. With a strong passion for innovation, I thrive in environments that blend creative problem-solving with technical precision.
+Hi, I’m Tirth, a Mechanical Engineer originally from New Zealand, now based in the United States. I specialize in mechanical systems, computer-aided design (CAD), simulation, prototyping, and testing and validation. With a strong passion for innovation, I thrive in environments that blend creative problem-solving with technical precision.
 
 Throughout my career, I’ve had the privilege of working on a variety of exciting projects in research and development, specifically in soft robotics, as well as product development in electro-mechanical design. My experience extends to systems engineering, where I’ve contributed to the development of reliable, high-performance products that meet both technical and user requirements.
 

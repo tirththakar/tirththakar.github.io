@@ -4,7 +4,7 @@
     "label": "Mechanical Engineer",
     "image": "",
     "email": "tirth.thakar174@gmail.com",
-    "phone": "(860) 328-6624",
+    "phone": "+1 (860) 328-6624",
     "url": "https://tirththakar.github.io/",
     "summary": "",
     "profiles": [
@@ -22,13 +22,8 @@
       "url": "https://sites.google.com/view/therobotincubator/",
       "startDate": "2023-08-21",
       "endDate": "Present",
-      "summary": "",
-      "highlights": ["Developed and tested high-voltage electroactive polymer actuators, conducting over 100 experiments to quantify
-mechanical properties, performance, and behavior under various environmental condition", "Implemented a soft gripper system utilizing said actuators that are capable of lifting 50 times their own mass
-", "Engineered, prototyped, and assembled high-precision components for high-altitude balloon payloads using SolidWorks,
-3-D printing, and rapid prototyping techniques", "Carried out DFMEA for payload system, identifying and assessing over 15 potential risks, and developing mitigation
-strategies that reduced risk severity by 85%", "Designed and fabricated 5+ high-voltage circuits and custom PCBs for robotic actuators, supporting applications in both
-Earth-based and space environments"]
+      "summary": "Conducting research into soft robots made from dielectric elastomer actuators and their applicability in extreme environments",
+      "highlights": ["Engineered, prototyped, and assembled high-precision components for high-altitude balloon payloads using SolidWorks, 3-D printing, and rapid prototyping techniques", "Carried out DFMEA for payload system, identifying and assessing over 15 potential risks, and developing mitigation strategies that reduced risk severity by 85%", "Designed and fabricated 5+ high-voltage circuits and custom PCBs for robotic actuators, supporting applications in both Earth-based and space environments", "Implemented a soft gripper system utilizing said actuators that are capable of lifting 50 times their own mass", "Developed and tested high-voltage electroactive polymer actuators, conducting over 100 experiments to quantify mechanical properties, performance, and behavior under various environmental condition"]
     },
     {
       "name": "Fisher & Paykel Technologies",
@@ -36,12 +31,8 @@ Earth-based and space environments"]
       "url": "https://www.fisherpaykeltechnologies.com/",
       "startDate": "2022-01-03",
       "endDate": "2023-08-18",
-      "summary": "",
-      "highlights": ["Led the end-to-end product lifecycle and project delivery for firmware, mechanical, and motor design improvements,
-driving a projected 20% increase in company revenue over a 3-year period across multiple business streams", "Engineered, tested, and optimized new electric motor designs by leveraging SolidWorks and ANSYS tools to meet
-performance specifications, reducing manufacturing costs by 19%", "Developed Python and LabView applications to streamline the design process, achieving a 10% reduction in design time", "Modified 10+ CAD motor designs and created detailed engineering drawings, applying geometric dimensioning and
-tolerance (GD&T) standards for precision manufacturing", "Performed FEA simulations on 3-D motor designs via ANSYS Maxwell, optimizing performance and identifying design
-improvements"]
+      "summary": "Designed electric motors for household applicances for major companies, leading several high revenue projects, carrying out the product development, testing and manufacturing phases",
+      "highlights": ["Engineered, tested, and optimized new electric motor designs by leveraging SolidWorks and ANSYS tools to meet performance specifications, reducing manufacturing costs by 19%", "Led the end-to-end product lifecycle and project delivery for firmware, mechanical, and motor design improvements, driving a projected 20% increase in company revenue over a 3-year period across multiple business streams", "Modified 10+ CAD motor designs and created detailed engineering drawings, applying geometric dimensioning and tolerance (GD&T) standards for precision manufacturing", "Performed FEA simulations on 3-D motor designs via ANSYS Maxwell, optimizing performance and identifying design improvements", "Developed Python and LabView applications to streamline the design process, achieving a 10% reduction in design time"]
     },
     {
       "name": "Halter",
@@ -49,8 +40,8 @@ improvements"]
       "url": "https://www.halterhq.com/en-us",
       "startDate": "2020-11-16",
       "endDate": "2021-12-24",
-      "summary": "",
-      "highlights": []
+      "summary": "Improving reliability and stability of flagship product at an agri-tech start-up by employing data analysis and mechanical testing methods",
+      "highlights": ["Executed thermal and impact testing on product and analyzed their effects on internal sensors and calibration", "Pioneered procedure to improve device calibration that reduced devices dropout rate by 84%", "Created data filter to remove drifted GPS location points resulting in reduction of false actuation commands by 92%", "Created real-time dashboards of core navigation, communication and power systems of product using Tableau, Python and SQL queries"]
     },
     {
       "name": "Fisher & Paykel Healthcare",
@@ -58,8 +49,8 @@ improvements"]
       "url": "https://www.fphcare.com/us/",
       "startDate": "2019-11-18",
       "endDate": "2020-02-28",
-      "summary": "",
-      "highlights": []
+      "summary": "Solved critical compliance and logistics issues faced by the supply chain team of a large medical devices manufacturer",
+      "highlights": ["Designed and optimized warehouse layout and workflows to reduce overall time to complete shipping orders by 20% via time-studies", "Maximized pallet utilization and packing configurations using optimzation softwares reducing transportation cost by 5%", "Standardized engineering and warehouse procedures and established SOPs to meet health and safety regulations", "Carried out compliance checks for all product lines to ensure labelling regulatory standards were met globally"]
     }
   ],
   "education": [
@@ -147,6 +138,11 @@ improvements"]
       "name": "Dr Mihai Duduta",
       "icon": "fa-solid fa-laptop",
       "reference": "Principle Investigator during MSc degree at the University of Connecticut"
+    },
+    {
+      "name": "Mr Matheus Bevilaqua",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Motor Design Team Manager at Fisher & Paykel Technologies"
     }
   ]
 }

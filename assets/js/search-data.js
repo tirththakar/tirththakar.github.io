@@ -60,9 +60,9 @@ ninja.data = [{
           description: "Using dielectric elastomer actuators as a soft gripper",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-electroadhesion-pads",
+          title: 'Electroadhesion Pads',
+          description: "Designing and testing the effectiveness of various materials for electroadhesion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",

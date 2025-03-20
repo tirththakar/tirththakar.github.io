@@ -75,9 +75,9 @@ ninja.data = [{
           description: "Designing a custom game controller using CAD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-fan-blade-analysis",
+          title: 'Fan Blade Analysis',
+          description: "Conducting CFD analysis on fan blades designed in SolidWorks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",

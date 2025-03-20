@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Soft Robots in Extreme Environments
+description: First author publication on the performance and appliations of soft robots under harsh conditions
 img:
-importance: 3
-category: fun
+importance: 4
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

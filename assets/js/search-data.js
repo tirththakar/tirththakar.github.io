@@ -55,9 +55,9 @@ ninja.data = [{
           description: "Designing and constructing a 3U payload for the statosphere",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-soft-end-effector-gripper-system",
+          title: 'Soft End Effector Gripper System',
+          description: "Using dielectric elastomer actuators as a soft gripper",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",

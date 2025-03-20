@@ -85,14 +85,14 @@ ninja.data = [{
           description: "Designing a 6 DOF robotic arm and its assembly",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-rachet-wrench-analysis",
-          title: 'Rachet Wrench Analysis',
-          description: "Conducting FEA simulation on a rachet wrench using Ansys",
+            },},{id: "projects-ratchet-wrench-analysis",
+          title: 'Ratchet Wrench Analysis',
+          description: "Conducting FEA simulation on a ratchet wrench using Ansys",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-cad-designs",
+          title: 'CAD Designs',
+          description: "Miscellaneous CAD designs I have modelled",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

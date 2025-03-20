@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rachet Wrench Analysis
-description: Conducting FEA simulation on a rachet wrench using Ansys
+title: Ratchet Wrench Analysis
+description: Conducting FEA simulation on a ratchet wrench using Ansys
 img: assets/img/9.jpg
 importance: 8
 category: work

@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of some things I have worked on in industry, academia, or as a hobby.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: []
 horizontal: false
 ---
 

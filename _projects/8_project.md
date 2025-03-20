@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 8
-description: an other project with a background image and giscus comments
+title: Rachet Wrench Analysis
+description: Conducting FEA simulation on a rachet wrench using Ansys
 img: assets/img/9.jpg
-importance: 2
+importance: 8
 category: work
 giscus_comments: true
 ---

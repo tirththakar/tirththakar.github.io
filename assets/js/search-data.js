@@ -50,9 +50,9 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-high-altitude-balloon-payload",
+          title: 'High Altitude Balloon Payload',
+          description: "Designing and constructing a 3U payload for the statosphere",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",

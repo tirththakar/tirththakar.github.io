@@ -80,9 +80,9 @@ ninja.data = [{
           description: "Conducting CFD analysis on fan blades designed in SolidWorks",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-robotic-arm",
+          title: 'Robotic Arm',
+          description: "Designing a 6 DOF robotic arm and its assembly",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
             },},{id: "projects-project-8",

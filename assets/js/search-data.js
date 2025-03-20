@@ -114,7 +114,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/tirth-thakar/", "_blank");
+          window.open("https://www.linkedin.com/in/tirth-thakar", "_blank");
         },
       },{
       id: 'light-theme',

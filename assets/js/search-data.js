@@ -90,9 +90,9 @@ ninja.data = [{
           description: "Conducting FEA simulation on a ratchet wrench using Ansys",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-cad-designs",
-          title: 'CAD Designs',
-          description: "Miscellaneous CAD designs I have modelled",
+            },},{id: "projects-raspberry-pi-heatsink-thermal-analysis",
+          title: 'Raspberry Pi Heatsink Thermal Analysis',
+          description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{

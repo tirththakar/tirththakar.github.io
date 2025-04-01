@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Raspberry Pi Heatsink Thermal Analysis
+title: RPi Heatsink Thermal Analysis
 description: Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA
 img: assets/img/6.jpg
 importance: 9

@@ -50,16 +50,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-fan-blade-analysis",
-          title: 'Fan Blade Analysis',
-          description: "Conducting CFD analysis on fan blades designed in SolidWorks",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-robotic-arm",
-          title: 'Robotic Arm',
-          description: "Designing a 6 DOF robotic arm and its assembly",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
             },},{id: "projects-ratchet-wrench-analysis",
           title: 'Ratchet Wrench Analysis',
           description: "Conducting FEA simulation on a ratchet wrench using Ansys",
@@ -80,6 +70,11 @@ ninja.data = [{
           description: "Designing and testing the effectiveness of various materials for electroadhesion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electroadhesion_pads/";
+            },},{id: "projects-fan-blade-analysis",
+          title: 'Fan Blade Analysis',
+          description: "Conducting CFD analysis on fan blades designed in SolidWorks",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/fan_blade_cfd/";
             },},{id: "projects-game-controller-design",
           title: 'Game Controller Design',
           description: "Designing a custom game controller using CAD",
@@ -95,6 +90,11 @@ ninja.data = [{
           description: "Designing and constructing a 3U payload for the statosphere",
           section: "Projects",handler: () => {
               window.location.href = "/projects/high_altitude_balloon/";
+            },},{id: "projects-robotic-arm",
+          title: 'Robotic Arm',
+          description: "Designing a 6 DOF robotic arm and its assembly",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/robot_arm/";
             },},{
         id: 'social-email',
         title: 'email',

@@ -50,16 +50,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-robotic-arm",
-          title: 'Robotic Arm',
-          description: "Designing a 6 DOF robotic arm and its assembly",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-ratchet-wrench-analysis",
-          title: 'Ratchet Wrench Analysis',
-          description: "Conducting FEA simulation on a ratchet wrench using Ansys",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
             },},{id: "projects-rpi-heatsink-thermal-analysis",
           title: 'RPi Heatsink Thermal Analysis',
           description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA",
@@ -95,6 +85,16 @@ ninja.data = [{
           description: "Designing and constructing a 3U payload for the statosphere",
           section: "Projects",handler: () => {
               window.location.href = "/projects/high_altitude_balloon/";
+            },},{id: "projects-ratchet-wrench-analysis",
+          title: 'Ratchet Wrench Analysis',
+          description: "Conducting FEA simulation on a ratchet wrench using Ansys",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ratchet_fea/";
+            },},{id: "projects-robotic-arm",
+          title: 'Robotic Arm',
+          description: "Designing a 6 DOF robotic arm and its assembly",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/robot_arm/";
             },},{
         id: 'social-email',
         title: 'email',

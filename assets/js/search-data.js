@@ -50,11 +50,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-high-altitude-balloon-payload",
-          title: 'High Altitude Balloon Payload',
-          description: "Designing and constructing a 3U payload for the statosphere",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{id: "projects-soft-end-effector-gripper-system",
           title: 'Soft End Effector Gripper System',
           description: "Using dielectric elastomer actuators as a soft gripper",
@@ -95,6 +90,11 @@ ninja.data = [{
           description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-high-altitude-balloon-payload",
+          title: 'High Altitude Balloon Payload',
+          description: "Designing and constructing a 3U payload for the statosphere",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/high_altitude_balloon/";
             },},{
         id: 'social-email',
         title: 'email',

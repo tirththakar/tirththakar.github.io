@@ -50,11 +50,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-soft-robots-in-extreme-environments",
-          title: 'Soft Robots in Extreme Environments',
-          description: "First author publication on the performance and appliations of soft robots under harsh conditions",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
             },},{id: "projects-game-controller-design",
           title: 'Game Controller Design',
           description: "Designing a custom game controller using CAD",
@@ -80,6 +75,11 @@ ninja.data = [{
           description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-soft-robots-in-extreme-environments",
+          title: 'Soft Robots in Extreme Environments',
+          description: "First author publication on the performance and appliations of soft robots under harsh conditions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/deas_extreme_environments/";
             },},{id: "projects-electroadhesion-pads",
           title: 'Electroadhesion Pads',
           description: "Designing and testing the effectiveness of various materials for electroadhesion",

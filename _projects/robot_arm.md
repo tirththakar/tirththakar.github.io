@@ -3,7 +3,7 @@ layout: page
 title: Robotic Arm 
 description: Designing a 6 DOF robotic arm and its assembly
 img: assets/img/4.jpg
-importance: 7
+importance: 2
 category: work
 related_publications: true
 ---

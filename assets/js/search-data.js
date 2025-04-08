@@ -50,11 +50,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-soft-end-effector-gripper-system",
-          title: 'Soft End Effector Gripper System',
-          description: "Using dielectric elastomer actuators as a soft gripper",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
             },},{id: "projects-electroadhesion-pads",
           title: 'Electroadhesion Pads',
           description: "Designing and testing the effectiveness of various materials for electroadhesion",
@@ -90,6 +85,11 @@ ninja.data = [{
           description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-soft-end-effector-gripper-system",
+          title: 'Soft End Effector Gripper System',
+          description: "Using dielectric elastomer actuators as a soft gripper",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/gripper_system/";
             },},{id: "projects-high-altitude-balloon-payload",
           title: 'High Altitude Balloon Payload',
           description: "Designing and constructing a 3U payload for the statosphere",

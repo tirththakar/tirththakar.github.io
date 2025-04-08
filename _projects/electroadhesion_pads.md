@@ -3,7 +3,7 @@ layout: page
 title: Electroadhesion Pads
 description: Designing and testing the effectiveness of various materials for electroadhesion
 img: assets/img/7.jpg
-importance: 3
+importance: 7
 category: work
 ---
 

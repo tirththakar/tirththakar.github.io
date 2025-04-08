@@ -50,11 +50,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "projects-game-controller-design",
-          title: 'Game Controller Design',
-          description: "Designing a custom game controller using CAD",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
             },},{id: "projects-fan-blade-analysis",
           title: 'Fan Blade Analysis',
           description: "Conducting CFD analysis on fan blades designed in SolidWorks",
@@ -85,6 +80,11 @@ ninja.data = [{
           description: "Designing and testing the effectiveness of various materials for electroadhesion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electroadhesion_pads/";
+            },},{id: "projects-game-controller-design",
+          title: 'Game Controller Design',
+          description: "Designing a custom game controller using CAD",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/game_controller/";
             },},{id: "projects-soft-end-effector-gripper-system",
           title: 'Soft End Effector Gripper System',
           description: "Using dielectric elastomer actuators as a soft gripper",

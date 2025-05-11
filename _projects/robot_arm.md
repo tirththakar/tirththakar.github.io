@@ -5,7 +5,7 @@ description: Designing a 6 DOF robotic arm and its assembly
 img: assets/img/4.jpg
 importance: 2
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description: Using dielectric elastomer actuators as a soft gripper
 img: assets/img/3.jpg
 importance: 7
 category: work
-giscus_comments: true
+giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

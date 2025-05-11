@@ -3,7 +3,7 @@ layout: page
 title: Soft Robots in Extreme Environments
 description: First author publication on the performance and appliations of soft robots under harsh conditions
 img:
-importance: 4
+importance: 5
 category: work
 ---
 

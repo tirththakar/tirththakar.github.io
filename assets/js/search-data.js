@@ -60,9 +60,9 @@ ninja.data = [{
           description: "Designing and testing the effectiveness of various materials for electroadhesion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electroadhesion_pads/";
-            },},{id: "projects-fan-blade-analysis",
-          title: 'Fan Blade Analysis',
-          description: "Conducting CFD analysis on fan blades designed in SolidWorks",
+            },},{id: "projects-quadcopter-drone",
+          title: 'Quadcopter Drone',
+          description: "Designing and prototyping a custom quadcopter",
           section: "Projects",handler: () => {
               window.location.href = "/projects/fan_blade_cfd/";
             },},{id: "projects-game-controller-design",

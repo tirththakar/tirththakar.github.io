@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Fan Blade Analysis
-description: Conducting CFD analysis on fan blades designed in SolidWorks
+title: Quadcopter Drone
+description: Designing and prototyping a custom quadcopter
 img:
-importance: 6
+importance: 8
 category: work
 ---
 

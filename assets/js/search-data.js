@@ -82,7 +82,7 @@ ninja.data = [{
               window.location.href = "/projects/heatsink_fea/";
             },},{id: "projects-high-altitude-balloon-payload",
           title: 'High Altitude Balloon Payload',
-          description: "Designing and constructing a 3U payload for the statosphere",
+          description: "Designing and constructing a 3U payload for the stratosphere",
           section: "Projects",handler: () => {
               window.location.href = "/projects/high_altitude_balloon/";
             },},{id: "projects-ratchet-wrench-analysis",

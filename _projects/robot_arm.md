@@ -2,7 +2,7 @@
 layout: page
 title: Robotic Arm 
 description: Designing a 6 DOF robotic arm and its assembly
-img: assets/img/4.jpg
+img: assets/img/Real Robot Arm Pic.png
 importance: 2
 category: work
 related_publications: false

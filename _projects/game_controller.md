@@ -2,7 +2,7 @@
 layout: page
 title: Game Controller Design
 description: Designing a custom game controller using CAD
-img: assets/img/1.jpg
+img: assets/img/Assembly Front.png
 importance: 4
 category: work
 ---

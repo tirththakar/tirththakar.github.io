@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RPi Heatsink Thermal Analysis
-description: Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA
+description: Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA and CFD
 img: assets/img/Ansys Heatsink.png
 importance: 3
 category: work

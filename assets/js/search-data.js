@@ -7,21 +7,21 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/tirththakar.github.io/";
+      window.location.href = "/";
     },
   },{id: "nav-projects-and-publications",
           title: "projects and publications",
           description: "A growing collection of some things I have worked on in industry, academia, or as a hobby.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tirththakar.github.io/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-resume",
           title: "resume",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/tirththakar.github.io/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
@@ -49,52 +49,52 @@ ninja.data = [{
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/tirththakar.github.io/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "projects-soft-robots-in-extreme-environments",
           title: 'Soft Robots in Extreme Environments',
           description: "First author publication on the performance and appliations of soft robots under harsh conditions",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/deas_extreme_environments/";
+              window.location.href = "/projects/deas_extreme_environments/";
             },},{id: "projects-electroadhesion-pads",
           title: 'Electroadhesion Pads',
           description: "Designing and testing the effectiveness of various materials for electroadhesion",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/electroadhesion_pads/";
+              window.location.href = "/projects/electroadhesion_pads/";
             },},{id: "projects-quadcopter-drone",
           title: 'Quadcopter Drone',
           description: "Designing and prototyping a custom quadcopter",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/fan_blade_cfd/";
+              window.location.href = "/projects/fan_blade_cfd/";
             },},{id: "projects-game-controller-design",
           title: 'Game Controller Design',
           description: "Designing a custom game controller using CAD",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/game_controller/";
+              window.location.href = "/projects/game_controller/";
             },},{id: "projects-soft-end-effector-gripper-system",
           title: 'Soft End Effector Gripper System',
           description: "Using dielectric elastomer actuators as a soft gripper",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/gripper_system/";
+              window.location.href = "/projects/gripper_system/";
             },},{id: "projects-rpi-heatsink-thermal-analysis",
           title: 'RPi Heatsink Thermal Analysis',
           description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/heatsink_fea/";
+              window.location.href = "/projects/heatsink_fea/";
             },},{id: "projects-high-altitude-balloon-payload",
           title: 'High Altitude Balloon Payload',
           description: "Designing and constructing a 3U payload for the stratosphere",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/high_altitude_balloon/";
+              window.location.href = "/projects/high_altitude_balloon/";
             },},{id: "projects-ratchet-wrench-analysis",
           title: 'Ratchet Wrench Analysis',
           description: "Conducting FEA simulation on a ratchet wrench using Ansys",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/ratchet_fea/";
+              window.location.href = "/projects/ratchet_fea/";
             },},{id: "projects-robotic-arm",
           title: 'Robotic Arm',
           description: "Designing a 6 DOF robotic arm and its assembly",
           section: "Projects",handler: () => {
-              window.location.href = "/tirththakar.github.io/projects/robot_arm/";
+              window.location.href = "/projects/robot_arm/";
             },},{
         id: 'social-email',
         title: 'email',

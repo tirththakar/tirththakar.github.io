@@ -2,7 +2,7 @@
 layout: page
 title: Quadcopter Drone
 description: Designing and prototyping a custom quadcopter
-img:
+img: assets/img/Drone Animated.jpg
 importance: 8
 category: work
 ---

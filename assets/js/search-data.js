@@ -77,7 +77,7 @@ ninja.data = [{
               window.location.href = "/projects/gripper_system/";
             },},{id: "projects-rpi-heatsink-thermal-analysis",
           title: 'RPi Heatsink Thermal Analysis',
-          description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA",
+          description: "Designing a heatsink for a Rasperry Pi and validating its performance via thermal FEA and CFD",
           section: "Projects",handler: () => {
               window.location.href = "/projects/heatsink_fea/";
             },},{id: "projects-high-altitude-balloon-payload",

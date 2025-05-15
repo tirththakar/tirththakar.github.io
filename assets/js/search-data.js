@@ -87,7 +87,7 @@ ninja.data = [{
               window.location.href = "/projects/high_altitude_balloon/";
             },},{id: "projects-ratchet-wrench-analysis",
           title: 'Ratchet Wrench Analysis',
-          description: "Conducting FEA simulation on a ratchet wrench using Ansys",
+          description: "Conducting FEA structural simulation on a ratchet wrench using Ansys",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ratchet_fea/";
             },},{id: "projects-robotic-arm",

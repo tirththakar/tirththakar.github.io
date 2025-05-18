@@ -8,9 +8,7 @@ category: work
 giscus_comments: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In this project, I modeled a ratchet wrench in SolidWorks and performed a structural simulation using ANSYS to evaluate its mechanical performance under load. A force was applied to the handle end to simulate real-world usage, and the resulting stress, strain, and deformation distributions were analyzed. The study helped identify critical stress regions and validate the design's structural integrity, providing insight into potential material or geometry optimizations.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

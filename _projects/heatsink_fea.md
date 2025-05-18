@@ -7,9 +7,7 @@ importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In this project, I designed and analyzed a custom heat sink for a Raspberry Pi to study how geometric variations affect thermal performance. Using temperature rise data from the Raspberry Pi chip, I calculated the corresponding heat flux to define realistic boundary conditions at the heat sink base. The CAD model and engineering drawings were developed in SolidWorks, and parametric studies were performed by varying fin height, spacing, and count. Both steady-state and transient thermal simulations were conducted in ANSYS, followed by CFD simulations in SolidWorks Flow Simulation to evaluate convective effects. The analysis identified locally optimal configurations for each geometric parameter, providing insight into effective passive cooling strategies for compact electronics.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

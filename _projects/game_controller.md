@@ -7,7 +7,7 @@ importance: 4
 category: work
 ---
 
-I designed a complete 3D CAD assembly of a game controller using SolidWorks, including the top and bottom housing, placeholders for joysticks, buttons, and a PCB. The model incorporated detailed structural features such as internal ribs and support bosses to ensure mechanical stability and manufacturability. Advanced SolidWorks tools were used to create complex surface features, shelling, and part interlocks, resulting in a robust and realistic representation of a functional controller enclosure.
+I designed a complete 3D CAD assembly of a game controller using SolidWorks, featuring both the top and bottom housings along with placeholders for joysticks, buttons, and a PCB. To ensure mechanical strength and manufacturability, I integrated internal ribs and support structures. The model utilized advanced SolidWorks tools such as shelling, complex surface modeling, and part interlocks. Exploded views of the assembly are included to clearly illustrate the internal layout and component integration.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

@@ -8,9 +8,7 @@ category: work
 related_publications: false
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This project involved the end-to-end design of a high-altitude balloon payload system intended to carry dielectric elastomer actuators (DEAs) into the stratosphere for environmental testing under near-space conditions. The system is designed for a 6-hour flight reaching an altitude of approximately 80,000 feet, exposing the DEAs to extreme thermal and pressure environments. I led the systems-level design of the payload, which is divided into three distinct compartments: an insulated electronics bay to maintain safe operating temperatures for onboard control systems; a “hot” compartment exposed to direct sunlight to simulate high-temperature conditions; and a “cold” compartment shielded from solar radiation and thermally insulated to drive down internal temperatures. I developed custom fixtures and housings for each DEA test module and all onboard components, ensuring mechanical stability and thermal isolation between compartments. The entire payload was modeled in CAD, with detailed engineering drawings created for fabrication. I also designed and built the electrical system, including custom PCBs and power regulation circuits, which will be shown through schematics and photos of the completed hardware. This project demonstrates a fully integrated approach to mechanical, electrical, and environmental system design for soft robotics testing in extreme atmospheric conditions.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

@@ -7,9 +7,7 @@ importance: 6
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+This research project, which formed the basis of my master’s thesis, explores the performance of dielectric elastomer actuators (DEAs) under extreme environmental conditions. I conducted extensive testing—including thermal, vacuum, and fatigue experiments—to evaluate how temperature, pressure, and repeated cycling affect actuator behavior, reliability, and material integrity. The goal was to assess the feasibility of DEA-based soft robotic systems for space and harsh terrestrial applications. A publication based on this work is currently in preparation for submission to a peer-reviewed journal.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

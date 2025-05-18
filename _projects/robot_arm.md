@@ -8,7 +8,9 @@ category: work
 related_publications: false
 ---
 
+<div style="text-align: justify;">
 I designed a complete 6-degree-of-freedom robotic arm in SolidWorks, modeling each individual component from the structural frame to motor housings and joint mechanisms. The full assembly consists of over 20 meticulously detailed parts, including motors, brackets, and fasteners, all integrated with accurate mechanical constraints. To demonstrate functionality, I created motion studies and rendered videos that simulate real-world articulation of the robotic arm, showcasing both the complexity and precision of the CAD assembly.
+</div>
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 

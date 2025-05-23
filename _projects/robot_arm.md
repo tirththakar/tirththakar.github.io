@@ -31,9 +31,11 @@ I designed a complete 6-degree-of-freedom robotic arm in SolidWorks, modeling ea
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/img/Robot Arm Assembly Motion Video.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+<div class="row justify-content-sm-center">
+    <div class="row">
+        <div class="col-sm mt-3 mt-md-0">
+            {% include video.liquid path="assets/img/Robot Arm Assembly Motion Video.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        </div>
     </div>
 </div>
 

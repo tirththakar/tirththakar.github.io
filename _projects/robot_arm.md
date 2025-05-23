@@ -23,6 +23,9 @@ I designed a complete 6-degree-of-freedom robotic arm in SolidWorks, modeling ea
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Robot Arm Assembly Position 2.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
+</div>
+
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Robot Arm Assembly Position 3.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>

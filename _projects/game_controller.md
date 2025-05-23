@@ -11,23 +11,41 @@ category: work
 I designed a complete 3D CAD assembly of a game controller using SolidWorks, featuring both the top and bottom housings along with placeholders for joysticks, buttons, and a PCB. To ensure mechanical strength and manufacturability, I integrated internal ribs and support structures. The model utilized advanced SolidWorks tools such as shelling, complex surface modeling, and part interlocks. Exploded views of the assembly are included to clearly illustrate the internal layout and component integration.
 </div>
 
-<p float="left">
-  <img src="assets/img/Controller Assembly Front.png" width="200" />
-  <img src="assets/img/Controller Assembly Back.png" width="200" />
-  <img src="assets/img/Controller Assembly Plane.png" width="200" />
-</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Front.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Back.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Plane.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-<p float="left">
-  <img src="assets/img/Controller Assembly Pic 1.png" width="200" />
-  <img src="assets/img/Controller Assembly Side 2.png" width="200" />
-  <img src="assets/img/Controller Assembly Side.png" width="200" />
-</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Pic 1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Side 2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Side.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
-<p float="left">
-  <img src="assets/img/Controller Assembly Bottom Front.png" width="200" />
-  <img src="assets/img/Controller Assembly Bottom Isometric.png" width="200" />
-  <img src="assets/img/Controller Assembly Top Back.png" width="200" />
-</p>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Bottom Front.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Bottom Isometric.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Top Back.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 <video width="320" height="240" controls>
   <source src="assets/img/Controller Assembly Explode.mp4" type="video/mp4">

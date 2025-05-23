@@ -34,44 +34,44 @@ I designed a complete 6-degree-of-freedom robotic arm in SolidWorks, modeling ea
 
 <p float="left">
   <img src="assets/img/Robot Arm Base Plate Pic.png" width="200" />
-  <img src="assets/img/Robot Arm Bearing Inner Ring.png" width="200" />
-  <img src="assets/img/Robot Arm Bearing Outer Ring.png" width="200" />
+  <img src="assets/img/Robot Arm Bearing Inner Ring.jpg" width="200" />
+  <img src="assets/img/Robot Arm Bearing Outer Ring.jpg" width="200" />
 </p>
 
 <p float="left">
-  <img src="assets/img/Robot Arm Big Servo Frame.png" width="200" />
-  <img src="assets/img/Robot Arm Big Servo.png" width="200" />
-  <img src="assets/img/Robot Arm Bottom Circular Plate.png" width="200" />
+  <img src="assets/img/Robot Arm Big Servo Frame.jpg" width="200" />
+  <img src="assets/img/Robot Arm Big Servo.jpg" width="200" />
+  <img src="assets/img/Robot Arm Bottom Circular Plate.jpg" width="200" />
 </p>
 
 <p float="left">
-  <img src="assets/img/Robot Arm Bottom Octo Plate.png" width="200" />
+  <img src="assets/img/Robot Arm Bottom Octo Plate.jpg" width="200" />
   <img src="assets/img/Robot Arm Bottom U Frame.png" width="200" />
-  <img src="assets/img/Robot Arm Conectors.png" width="200" />
+  <img src="assets/img/Robot Arm Conectors.jpg" width="200" />
 </p>
 
 <p float="left">
-  <img src="assets/img/Robot Arm Gripper Connectors.png" width="200" />
-  <img src="assets/img/Robot Arm Hex Fastner.png" width="200" />
-  <img src="assets/img/Robot Arm Large Connector.png" width="200" />
+  <img src="assets/img/Robot Arm Gripper Connectors.jpg" width="200" />
+  <img src="assets/img/Robot Arm Hex Fastner.jpg" width="200" />
+  <img src="assets/img/Robot Arm Large Connector.jpg" width="200" />
 </p>
 
 <p float="left">
-  <img src="assets/img/Robot Arm Middle U Frame.png" width="200" />
-  <img src="assets/img/Robot Arm Mini Bracket.png" width="200" />
-  <img src="assets/img/Robot Arm Servo Connectors.png" width="200" />
+  <img src="assets/img/Robot Arm Middle U Frame.jpg" width="200" />
+  <img src="assets/img/Robot Arm Mini Bracket.jpg" width="200" />
+  <img src="assets/img/Robot Arm Servo Connectors.jpg" width="200" />
 </p>
 
 <p float="left">
   <img src="assets/img/Robot Arm Servo Motor Pic 2.png" width="200" />
   <img src="assets/img/Robot Arm Servo Motor Pic.png" width="200" />
-  <img src="assets/img/Robot Arm Small Connector.png" width="200" />
+  <img src="assets/img/Robot Arm Small Connector.jpg" width="200" />
 </p>
 
 <p float="left">
-  <img src="assets/img/Robot Arm Suction Pad.png" width="200" />
-  <img src="assets/img/Robot Arm Top Servo Connector.png" width="200" />
-  <img src="assets/img/Robot Arm Top U Frame.png" width="200" />
+  <img src="assets/img/Robot Arm Suction Pad.jpg" width="200" />
+  <img src="assets/img/Robot Arm Top Servo Connector.jpg" width="200" />
+  <img src="assets/img/Robot Arm Top U Frame.jpg" width="200" />
 </p>
 
 

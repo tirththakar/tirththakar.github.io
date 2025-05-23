@@ -12,70 +12,66 @@ related_publications: false
 I designed a complete 6-degree-of-freedom robotic arm in SolidWorks, modeling each individual component from the structural frame to motor housings and joint mechanisms. The full assembly consists of over 20 meticulously detailed parts, including motors, brackets, and fasteners, all integrated with accurate mechanical constraints. To demonstrate functionality, I created motion studies and rendered videos that simulate real-world articulation of the robotic arm, showcasing both the complexity and precision of the CAD assembly.
 </div>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+<div style="text-align: justify;">
+    
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<p float="left">
+  <img src="assets/img/Robot Arm Assembly Position 1.png" width="200" />
+  <img src="assets/img/Robot Arm Assembly Position 2.png" width="200" />
+  <img src="assets/img/Robot Arm Assembly Position 3.png" width="200" />
+  <img src="assets/img/Robot Arm Assembly Position 4.png" width="200" />
+</p>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<video width="320" height="240" controls>
+  <source src="assets/img/Robot Arm Assembly Motion Video.mp4" type="video/mp4">
+</video>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+<p float="left">
+  <img src="assets/img/Robot Arm Assembly Close Up 1.png" width="200" />
+  <img src="assets/img/Robot Arm Assembly Close Up 2.png" width="200" />
+</p>
 
-{% raw %}
+<p float="left">
+  <img src="assets/img/Robot Arm Base Plate Pic.png" width="200" />
+  <img src="assets/img/Robot Arm Bearing Inner Ring.png" width="200" />
+  <img src="assets/img/Robot Arm Bearing Outer Ring.png" width="200" />
+</p>
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+<p float="left">
+  <img src="assets/img/Robot Arm Big Servo Frame.png" width="200" />
+  <img src="assets/img/Robot Arm Big Servo.png" width="200" />
+  <img src="assets/img/Robot Arm Bottom Circular Plate.png" width="200" />
+</p>
 
-{% endraw %}
+<p float="left">
+  <img src="assets/img/Robot Arm Bottom Octo Plate.png" width="200" />
+  <img src="assets/img/Robot Arm Bottom U Frame.png" width="200" />
+  <img src="assets/img/Robot Arm Conectors.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="assets/img/Robot Arm Gripper Connectors.png" width="200" />
+  <img src="assets/img/Robot Arm Hex Fastner.png" width="200" />
+  <img src="assets/img/Robot Arm Large Connector.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="assets/img/Robot Arm Middle U Frame.png" width="200" />
+  <img src="assets/img/Robot Arm Mini Bracket.png" width="200" />
+  <img src="assets/img/Robot Arm Servo Connectors.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="assets/img/Robot Arm Servo Motor Pic 2.png" width="200" />
+  <img src="assets/img/Robot Arm Servo Motor Pic.png" width="200" />
+  <img src="assets/img/Robot Arm Small Connector.png" width="200" />
+</p>
+
+<p float="left">
+  <img src="assets/img/Robot Arm Suction Pad.png" width="200" />
+  <img src="assets/img/Robot Arm Top Servo Connector.png" width="200" />
+  <img src="assets/img/Robot Arm Top U Frame.png" width="200" />
+</p>
+
+

@@ -47,6 +47,11 @@ I designed a complete 3D CAD assembly of a game controller using SolidWorks, fea
     </div>
 </div>
 
-<video width="320" height="240" controls>
-  <source src="assets/img/Controller Assembly Explode.mp4" type="video/mp4">
-</video>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/img/Controller Assembly Explode.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
+<div class="caption">
+    A simple, elegant caption looks good between video rows, after each row, or doesn't have to be there at all.
+</div>

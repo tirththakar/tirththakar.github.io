@@ -92,7 +92,7 @@ I designed a complete 6-degree-of-freedom robotic arm in SolidWorks, modeling ea
         {% include figure.liquid loading="eager" path="assets/img/Robot Arm Gripper Connectors.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Robot Arm Hex Fastner.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Robot Arm Small Connector.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Robot Arm Large Connector.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -119,7 +119,7 @@ I designed a complete 6-degree-of-freedom robotic arm in SolidWorks, modeling ea
         {% include figure.liquid loading="eager" path="assets/img/Robot Arm Servo Motor Pic.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Robot Arm Small Connector.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/Robot Arm Hex Fastner.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 

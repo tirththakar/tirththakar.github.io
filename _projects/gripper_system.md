@@ -14,12 +14,6 @@ This project involved the design and fabrication of a soft robotic gripping end 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Wrench Pic.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Wrench Back.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Wrench Side.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/DEA.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>

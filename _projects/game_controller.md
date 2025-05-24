@@ -18,9 +18,6 @@ I designed a complete 3D CAD assembly of a game controller using SolidWorks, fea
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Back.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Plane.png" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
 </div>
 
 <div class="row">
@@ -30,8 +27,14 @@ I designed a complete 3D CAD assembly of a game controller using SolidWorks, fea
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Side 2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Side.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Assembly Plane.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -40,10 +43,16 @@ I designed a complete 3D CAD assembly of a game controller using SolidWorks, fea
         {% include figure.liquid loading="eager" path="assets/img/Controller Bottom Front.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Controller Bottom Isometric.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Controller Top Back.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Controller Top Isometric.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Controller Top Back.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Controller Bottom Isometric.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 

@@ -12,3 +12,14 @@ giscus_comments: false
 This project involved the design and fabrication of a soft robotic gripping end effector powered by dielectric elastomer actuators (DEAs). The gripper demonstrates reliable, reversible actuation, as shown in a video highlighting the deformation response of the DEA elements. Integrated onto a robotic arm, the end effector successfully manipulates and transports objects between locations, showcasing its potential for lightweight and adaptable robotic handling applications. A demonstration video captures the full manipulation sequence.
 </div>
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Wrench Pic.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Wrench Back.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/Wrench Side.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>

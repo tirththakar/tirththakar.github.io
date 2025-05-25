@@ -2,7 +2,7 @@
 layout: page
 title: High Altitude Balloon Payload
 description: Designing and constructing a 3U payload for the stratosphere
-img: assets/img/worldview-balloon.webp
+img: assets/img/HAB Tile.png
 importance: 1
 category: work
 related_publications: false

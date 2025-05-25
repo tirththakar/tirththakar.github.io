@@ -71,7 +71,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/game_controller/";
             },},{id: "projects-soft-end-effector-gripper-system",
-          title: 'Soft End Effector Gripper System',
+          title: 'Soft End-Effector Gripper System',
           description: "Using dielectric elastomer actuators as a soft gripper",
           section: "Projects",handler: () => {
               window.location.href = "/projects/gripper_system/";

@@ -2,7 +2,7 @@
 layout: page
 title: Soft Robots in Extreme Environments
 description: First author publication on the performance and appliations of soft robots under harsh conditions
-img: assets/img/CN9018 50V_um Burn4 Ambient.png
+img: assets/img/Extreme Environment Tile.png
 importance: 6
 category: work
 ---

@@ -55,16 +55,16 @@ ninja.data = [{
           description: "First author publication on the performance and appliations of soft robots under harsh conditions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/deas_extreme_environments/";
+            },},{id: "projects-quadcopter-drone",
+          title: 'Quadcopter Drone',
+          description: "Designing and prototyping a custom quadcopter",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/drone/";
             },},{id: "projects-electroadhesion-pads",
           title: 'Electroadhesion Pads',
           description: "Designing and testing the effectiveness of various materials for electroadhesion",
           section: "Projects",handler: () => {
               window.location.href = "/projects/electroadhesion_pads/";
-            },},{id: "projects-quadcopter-drone",
-          title: 'Quadcopter Drone',
-          description: "Designing and prototyping a custom quadcopter",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/fan_blade_cfd/";
             },},{id: "projects-game-controller-design",
           title: 'Game Controller Design',
           description: "Designing a custom game controller using CAD",

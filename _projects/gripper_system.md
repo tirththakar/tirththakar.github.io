@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soft End Effector Gripper System
+title: Soft End-Effector Gripper System
 description: Using dielectric elastomer actuators as a soft gripper
 img: assets/img/Soft Gripper Tile.png
 importance: 7

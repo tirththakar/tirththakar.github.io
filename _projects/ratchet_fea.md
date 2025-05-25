@@ -2,7 +2,7 @@
 layout: page
 title: Ratchet Wrench Analysis
 description: Conducting FEA structural simulation on a ratchet wrench using Ansys
-img: assets/img/Wrench Closeup.png
+img: assets/img/Ratchet Wrench Tile.png
 importance: 5
 category: work
 giscus_comments: false

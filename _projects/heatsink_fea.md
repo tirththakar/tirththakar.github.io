@@ -27,13 +27,9 @@ In this project, I designed and analyzed a custom heat sink for a Raspberry Pi t
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Increasing Fin Height Graph.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
-<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Increasing Fin Thickness.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
-<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Increasing Number of Fins.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -43,14 +39,11 @@ In this project, I designed and analyzed a custom heat sink for a Raspberry Pi t
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Increasing Fin Height CFD.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
-<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Increasing Fin Thickness CFD.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-</div>
-<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Increasing Number of Fins CFD.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
+
